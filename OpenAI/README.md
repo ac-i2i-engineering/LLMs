@@ -24,3 +24,7 @@ The OpenAI API provides developers with access to advanced artificial intelligen
 3) Regular Updates: Stay updated with any changes or improvements in the API and models to ensure compatibility and improve functionality.
 
 By integrating the OpenAI API into applications, startups can leverage cutting-edge AI technology to enhance functionality, streamline processes, and create new user experiences. Whether you're building a chatbot, an editorial assistant, or an image generation tool, the OpenAI API provides a robust foundation for your AI needs.
+
+## Examples:
+- https://mammothedu.github.io
+  - Code at https://github.com/MammothEdu/MammothEdu.github.io
